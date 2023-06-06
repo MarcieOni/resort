@@ -43,3 +43,8 @@ p .opsHrs li {
     list-style-type: none;
 }
 
+.contact {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
